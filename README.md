@@ -1,3 +1,2 @@
 # git_test
-Test input
-maybe
+Hello THor, son of Odin, God of Thunder.
